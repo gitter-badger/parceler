@@ -1,5 +1,10 @@
 = Parceler Changelog
 
+== Upcoming Release
+
+Enhancements::
+  * Changed Parcelable implementations use CREATOR directly
+
 == Release 1.1.5 (2016-05-25)
 
 Bug Fixes::
